@@ -27,3 +27,15 @@ License
 4. Then you will be prompted to enter the engineer's name, ID, email, and GitHub username, and you will be taken back to the menu.
 5. Then you will be prompted to enter the intern's name, ID, email, and school, and you will be taken back to the menu.
 6. Select finish once completed.
+
+## Video Walkthrough 
+
+## Tests
+To execute tests, perform the following steps:
+
+1. Open your terminal or command prompt.
+2. Navigate to the directory where your project is located.
+3. Enter the command 'npm test'.
+
+## License
+This project is licensed under the MIT license.
