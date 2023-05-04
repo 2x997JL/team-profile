@@ -29,7 +29,7 @@ License
 6. Select finish once completed.
 
 ## Video Walkthrough 
-https://drive.google.com/file/d/1wJtus9r-tGoIwdVQd-RrckdJ4G4uP_Qy/view 
+
 
 ## Tests
 To execute tests, perform the following steps:
